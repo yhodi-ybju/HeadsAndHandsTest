@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GameFight.iml" filepath="$PROJECT_DIR$/GameFight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameFight.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GameFight.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameFight.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GameFight.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HeadsAndHandsTest.iml" filepath="$PROJECT_DIR$/.idea/HeadsAndHandsTest.iml" />
+    </modules>
+  </component>
+</project>

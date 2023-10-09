@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameFightTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-10-09T16:42:41" hostname="DESKTOP-BOALN8I" time="0.018">
+  <properties/>
+  <testcase name="healHero()" classname="GameFightTests" time="0.013"/>
+  <testcase name="healTooMuch()" classname="GameFightTests" time="0.001"/>
+  <testcase name="die()" classname="GameFightTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
